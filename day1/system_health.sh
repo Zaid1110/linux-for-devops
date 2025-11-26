@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 #!/bin/bash
 
-echo "System Report"
+echo "======== System Health Report ========"
 date
 echo
 
@@ -15,6 +14,7 @@ echo
 
 echo "Top Processes:"
 top -b -n 1 | head -n 10
-=======
 
->>>>>>> 935388683049d547cba2eec058bd77a27ed639d8
+
+echo "======== Report Completed. ========"
+
