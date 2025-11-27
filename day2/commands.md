@@ -1,4 +1,4 @@
-* File & Permission Commands
+## File & Permission Commands
 
 - sudo chown ubuntu:ubuntu /path/to/file     # change owner
 - sudo chown -R ubuntu:ubuntu /path/to/dir   # recursive owner change
@@ -7,7 +7,7 @@
 - umask                                      # default permission mask
 
 
-* Process Management
+## Process Management
 
 - ps aux | grep nginx                        # list processes related to nginx
 - top                                        # interactive process viewer
@@ -19,7 +19,7 @@
 - sudo systemctl restart <service>           # restart a service
 - sudo systemctl daemon-reload               # reload unit files
 
-* Package Management (Ubuntu)
+## Package Management (Ubuntu)
 
 - sudo apt update
 - sudo apt upgrade -y
@@ -34,7 +34,7 @@
 - sudo tail -n 200 /var/log/syslog
 - sudo tail -f /var/log/syslog               # live log tailing
 
-* Networking quick checks
+## Networking quick checks
 
 - ss -tulpn                                  # listening sockets
 - netstat -tulpn                             # same as above (older systems)
