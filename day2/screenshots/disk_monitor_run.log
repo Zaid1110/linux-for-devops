@@ -1,0 +1,100 @@
+==== Disk Monitor Starting ====
+[2025-11-27T01:46:56Z] Script dir: /linux-for-devops/day2
+[2025-11-27T01:46:56Z] Repo root:  /linux-for-devops
+[2025-11-27T01:46:56Z] Log file:   /linux-for-devops/day2/screenshots/disk_monitor_run.log
+[2025-11-27T01:46:56Z] Threshold:  85%
+[2025-11-27T01:46:56Z] Cleanup dir:(none)
+[2025-11-27T01:46:56Z] Dry run:    false
+[2025-11-27T01:46:56Z] Disk usage snapshot:
+Filesystem      Type      Size  Used Avail Use% Mounted on
+/dev/root       ext4       15G  1.9G   13G  13% /
+tmpfs           tmpfs     458M     0  458M   0% /dev/shm
+tmpfs           tmpfs     183M  880K  182M   1% /run
+tmpfs           tmpfs     5.0M     0  5.0M   0% /run/lock
+efivarfs        efivarfs  128K  3.8K  120K   4% /sys/firmware/efi/efivars
+/dev/nvme0n1p16 ext4      881M   89M  730M  11% /boot
+/dev/nvme0n1p15 vfat      105M  6.2M   99M   6% /boot/efi
+tmpfs           tmpfs      92M   12K   92M   1% /run/user/1000
+
+[2025-11-27T01:46:56Z] ==== Disk Monitor Completed ====
+
+==== Disk Monitor Starting ====
+[2025-11-27T01:48:09Z] Script dir: /linux-for-devops/day2
+[2025-11-27T01:48:09Z] Repo root:  /linux-for-devops
+[2025-11-27T01:48:09Z] Log file:   /linux-for-devops/day2/screenshots/disk_monitor_run.log
+[2025-11-27T01:48:09Z] Threshold:  90%
+[2025-11-27T01:48:09Z] Cleanup dir:/tmp/mycleanup
+[2025-11-27T01:48:09Z] Dry run:    true
+[2025-11-27T01:48:09Z] Disk usage snapshot:
+Filesystem      Type      Size  Used Avail Use% Mounted on
+/dev/root       ext4       15G  1.9G   13G  13% /
+tmpfs           tmpfs     458M     0  458M   0% /dev/shm
+tmpfs           tmpfs     183M  880K  182M   1% /run
+tmpfs           tmpfs     5.0M     0  5.0M   0% /run/lock
+efivarfs        efivarfs  128K  3.8K  120K   4% /sys/firmware/efi/efivars
+/dev/nvme0n1p16 ext4      881M   89M  730M  11% /boot
+/dev/nvme0n1p15 vfat      105M  6.2M   99M   6% /boot/efi
+tmpfs           tmpfs      92M   12K   92M   1% /run/user/1000
+
+[2025-11-27T01:48:09Z] ==== Disk Monitor Completed ====
+
+==== Disk Monitor Starting ====
+[2025-11-27T01:51:20Z] Script dir: /linux-for-devops/day2
+[2025-11-27T01:51:20Z] Repo root:  /linux-for-devops
+[2025-11-27T01:51:20Z] Log file:   /linux-for-devops/day2/screenshots/disk_monitor_run.log
+[2025-11-27T01:51:20Z] Threshold:  90%
+[2025-11-27T01:51:20Z] Cleanup dir:/tmp/mycleanup
+[2025-11-27T01:51:20Z] Dry run:    true
+[2025-11-27T01:51:20Z] Disk usage snapshot:
+Filesystem      Type      Size  Used Avail Use% Mounted on
+/dev/root       ext4       15G  2.0G   13G  14% /
+tmpfs           tmpfs     458M     0  458M   0% /dev/shm
+tmpfs           tmpfs     183M  880K  182M   1% /run
+tmpfs           tmpfs     5.0M     0  5.0M   0% /run/lock
+efivarfs        efivarfs  128K  3.8K  120K   4% /sys/firmware/efi/efivars
+/dev/nvme0n1p16 ext4      881M   89M  730M  11% /boot
+/dev/nvme0n1p15 vfat      105M  6.2M   99M   6% /boot/efi
+tmpfs           tmpfs      92M   12K   92M   1% /run/user/1000
+
+[2025-11-27T01:51:20Z] ==== Disk Monitor Completed ====
+
+==== Disk Monitor Starting ====
+[2025-11-27T01:57:05Z] Script dir: /linux-for-devops/day2
+[2025-11-27T01:57:05Z] Repo root:  /linux-for-devops
+[2025-11-27T01:57:05Z] Log file:   /linux-for-devops/day2/screenshots/disk_monitor_run.log
+[2025-11-27T01:57:05Z] Threshold:  90%
+[2025-11-27T01:57:05Z] Cleanup dir:/tmp/mycleanup
+[2025-11-27T01:57:05Z] Dry run:    true
+[2025-11-27T01:57:05Z] Disk usage snapshot:
+Filesystem      Type      Size  Used Avail Use% Mounted on
+/dev/root       ext4       15G  2.0G   13G  14% /
+tmpfs           tmpfs     458M     0  458M   0% /dev/shm
+tmpfs           tmpfs     183M  880K  182M   1% /run
+tmpfs           tmpfs     5.0M     0  5.0M   0% /run/lock
+efivarfs        efivarfs  128K  3.8K  120K   4% /sys/firmware/efi/efivars
+/dev/nvme0n1p16 ext4      881M   89M  730M  11% /boot
+/dev/nvme0n1p15 vfat      105M  6.2M   99M   6% /boot/efi
+tmpfs           tmpfs      92M   12K   92M   1% /run/user/1000
+
+[2025-11-27T01:57:05Z] ==== Disk Monitor Completed ====
+
+==== Disk Monitor Starting ====
+[2025-11-27T01:58:21Z] Script dir: /linux-for-devops/day2
+[2025-11-27T01:58:21Z] Repo root:  /linux-for-devops
+[2025-11-27T01:58:21Z] Log file:   /linux-for-devops/day2/screenshots/disk_monitor_run.log
+[2025-11-27T01:58:21Z] Threshold:  1%
+[2025-11-27T01:58:21Z] Cleanup dir:/tmp/mycleanup
+[2025-11-27T01:58:21Z] Dry run:    false
+[2025-11-27T01:58:21Z] Disk usage snapshot:
+Filesystem      Type      Size  Used Avail Use% Mounted on
+/dev/root       ext4       15G  2.4G   13G  17% /
+tmpfs           tmpfs     458M     0  458M   0% /dev/shm
+tmpfs           tmpfs     183M  880K  182M   1% /run
+tmpfs           tmpfs     5.0M     0  5.0M   0% /run/lock
+efivarfs        efivarfs  128K  3.8K  120K   4% /sys/firmware/efi/efivars
+/dev/nvme0n1p16 ext4      881M   89M  730M  11% /boot
+/dev/nvme0n1p15 vfat      105M  6.2M   99M   6% /boot/efi
+tmpfs           tmpfs      92M   12K   92M   1% /run/user/1000
+
+[2025-11-27T01:58:21Z] ==== Disk Monitor Completed ====
+
