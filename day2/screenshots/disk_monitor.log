@@ -13,3 +13,7 @@
 /bin/sh: 1: /linux-for-devops/scripts/disk_monitor.sh: Permission denied
 /bin/sh: 1: /linux-for-devops/disk_monitor.sh: not found
 /bin/sh: 1: /linux-for-devops/scripts/disk_monitor.sh: Permission denied
+/bin/sh: 1: /linux-for-devops/disk_monitor.sh: not found
+/bin/sh: 1: /linux-for-devops/scripts/disk_monitor.sh: Permission denied
+/bin/sh: 1: /linux-for-devops/disk_monitor.sh: not found
+/bin/sh: 1: /linux-for-devops/scripts/disk_monitor.sh: Permission denied
