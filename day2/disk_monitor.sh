@@ -117,7 +117,7 @@ while IFS= read -r line; do
     # Optional: add hooks here to send notifications (Slack webhook, mailx, etc.)
     # Example (disabled): curl -X POST -H 'Content-type: application/json' --data '{"text":"Disk alert"}' https://hooks.slack.com/services/...
   fi
-done < <(df -P -h --output=source,fstype,size,used,avail,pcent,target | tail -n +2)
+done < <(df --output=source,size,used,avail,pcent,target | tail -n +2)
 
 log "==== Disk Monitor Completed ===="
 echo "" >> "$LOGFILE"
